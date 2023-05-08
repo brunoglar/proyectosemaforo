@@ -12,7 +12,7 @@
 ## **<span style="color:yellow">Proyecto: Estaciones de SUBTE**
 ---
 
-![Tinkercad]([image.png](https://ibb.co/MRM256M) "Vista previa, esquema en Tinkercad")
+![Tinkercad](https://1drv.ms/i/s!Alay7t3_GjB9ln3ZG5XhGJcuO8RH?e=CByN3N)
 
 
 ## **<span style="color:yellow">Consigna SUBTE:**
